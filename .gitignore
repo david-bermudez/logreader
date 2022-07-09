@@ -1,0 +1,15 @@
+﻿#Ignorar los LOGS
+/LOGS
+/LogReader/LOG_API/*
+
+#Ignorar los ejecutables
+/LogReader/bin/*
+/LogReaderApp/bin/*
+
+#Ignorar los obj
+/LogReader/obj/*
+/LogReaderApp/obj/*
+/.vs/*
+*.dll
+*.pdb
+*.cache
