@@ -9,7 +9,7 @@
 #Ignorar los obj
 /LogReader/obj/*
 /LogReaderApp/obj/*
-/.vs/*
+/packages/*
 *.dll
 *.pdb
 *.cache
