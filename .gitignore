@@ -10,7 +10,7 @@
 /LogReader/obj/*
 /LogReaderApp/obj/*
 /packages/*
-/vs/*
+/.vs/*
 *.dll
 *.pdb
 *.cache
